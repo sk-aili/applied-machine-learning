@@ -1,2 +1,2 @@
 # applied-machine-learning
-This repository contains code, notebooks, and resources for applying machine learning techniques to various real-world problems.
+This repository contains code, notebooks, and resources for applying machine learning techniques to various real-world problems. It covers a wide range of topics, including data preprocessing, feature engineering, model selection, and evaluation. The examples and case studies presented in this repository are meant to provide practical insights into solving problems with machine learning. Whether you're a beginner or an experienced practitioner, this repository aims to provide useful information and tools for your applied machine learning projects.
