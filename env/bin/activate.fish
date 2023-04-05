@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/saili/Library/CloudStorage/OneDrive-GeorgeMasonUniversity-O365Production/Bag/projects/predictive-modeling-project-1/lib/env"
+set -gx VIRTUAL_ENV "/Users/saili/Library/CloudStorage/OneDrive-GeorgeMasonUniversity-O365Production/Bag/projects/predictive-modeling-project-1/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
